@@ -16,4 +16,9 @@ Time spent: **19** hours spent in total
 
 ![attack](https://user-images.githubusercontent.com/24555370/32418153-61224d10-c232-11e7-907f-2d6d6a21461a.PNG)
 
-![track event](https://user-images.githubusercontent.com/24555370/32418154-68571548-c232-11e7-908b-faefa6febad3.PNG)
+![track event](https://user-images.githubusercontent.com/24555370/32418154-68571548-c232-11e7-908b-faefa6febad3.PNG)  
+
+## Finding the vulnerabilities in this honeyspot
+- [ ] select one of visitor's ip address: 162.125.34.137 
+- [ ] use Nikto to scan against this ip ./nikto.pl -h 162.125.34.137 
+![niko](https://user-images.githubusercontent.com/24555370/32418229-ce0b4156-c233-11e7-9878-42ddd2b71241.PNG)
