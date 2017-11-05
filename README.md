@@ -22,3 +22,10 @@ Time spent: **19** hours spent in total
 - [ ] select one of visitor's ip address: 162.125.34.137 
 - [ ] use Nikto to scan against this ip ./nikto.pl -h 162.125.34.137 
 ![niko](https://user-images.githubusercontent.com/24555370/32418229-ce0b4156-c233-11e7-9878-42ddd2b71241.PNG)
+
+## Banner grabbing using netcat
+- [ ] nc  162.125.34.137 80
+- failed banner grabbing, not able to connect to the port
+![failed](https://user-images.githubusercontent.com/24555370/32418311-64951c72-c235-11e7-87a2-a1744fbcb6ab.PNG)
+
+
