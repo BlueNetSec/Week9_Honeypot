@@ -11,4 +11,9 @@ Time spent: **19** hours spent in total
 ## Alternative
 - [ ] After research online, I discover that thereare a list of honeypots tools aviable online. So I decided to use KFSensor to do this assignment. KFSensor has a 30-day free trial, which is more than enough for this week's assignment. In addition, I also use the Wireshark  and WinPcap, the industry standard network packet capture library.
 
--[ ] GIF Walk Through of setting up KFSensor:
+-[ ] After setting up KFSensor:
+![event](https://user-images.githubusercontent.com/24555370/32418119-f34e9780-c231-11e7-9c7e-f755568c291d.PNG)
+
+![attack](https://user-images.githubusercontent.com/24555370/32418153-61224d10-c232-11e7-907f-2d6d6a21461a.PNG)
+
+![track event](https://user-images.githubusercontent.com/24555370/32418154-68571548-c232-11e7-908b-faefa6febad3.PNG)
